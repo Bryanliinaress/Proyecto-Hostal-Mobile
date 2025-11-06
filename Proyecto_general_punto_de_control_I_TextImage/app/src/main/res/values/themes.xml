@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Proyecto_general_punto_de_control_I_TextImage" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
