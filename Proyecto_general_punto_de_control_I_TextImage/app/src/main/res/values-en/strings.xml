@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="textoInicio">Welcome to Hostal Manuel</string>
+    <string name="Des_FotoLogo">Logo photo</string>
+    <string name="SobreNosotros">About us</string>
+    <string name="Ayuda">Help</string>
+    <string name="Historia">History</string>
+    <string name="AcercaDe">About</string>
+    <string name="TextoAcercaDe">Official app of Hostal Lianares. Find information, book rooms, and learn more about our services.</string>
+    <string name="Desarrolladores">" Developed by: \n• Ana López \n• Carlos Pérez \n• Diego Ramírez"</string>
+    <string name="Licencia">© 2025 Hostal Lianares. All rights reserved.</string>
+</resources>

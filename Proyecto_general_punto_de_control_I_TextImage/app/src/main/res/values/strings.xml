@@ -1,3 +1,12 @@
 <resources>
-    <string name="app_name">Proyecto_general_punto_de_control_I_(Text+Image)</string>
+    <string name="app_name" translatable="false">Proyecto_general_punto_de_control_I_(Text+Image)</string>
+    <string name="textoInicio">Bienvenido a Hostal Manuel</string>
+    <string name="Des_FotoLogo">Foto del logo</string>
+    <string name="SobreNosotros">Sobre Nosotros</string>
+    <string name="Ayuda">Ayuda</string>
+    <string name="Historia">Historia</string>
+    <string name="AcercaDe">Acerca de</string>
+    <string name="TextoAcercaDe">Aplicación oficial del Hostal Lianares. Encuentra información, reserva habitaciones y conoce más sobre nuestros servicios.</string>
+    <string name="Desarrolladores">Desarrollado por:\n• Ana López\n• Carlos Pérez\n• Diego Ramírez</string>
+    <string name="Licencia">© 2025 Hostal Lianares. Todos los derechos reservados.\nLicencia MIT.</string>
 </resources>
