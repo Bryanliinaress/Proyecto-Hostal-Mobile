@@ -9,7 +9,6 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.Scaffold
 import androidx.compose.ui.Modifier
 import com.alanturing.proyecto_general_punto_de_control_i_textimage.ui.AcercaDe
-import com.alanturing.proyecto_general_punto_de_control_i_textimage.ui.AcercaDe
 import com.alanturing.proyecto_general_punto_de_control_i_textimage.ui.theme.HostalTheme
 
 class MainActivity : ComponentActivity() {
@@ -22,6 +21,7 @@ class MainActivity : ComponentActivity() {
                     AcercaDe(
                         modifier = Modifier.padding(innerPadding)
                     )
+
                 }
             }
         }

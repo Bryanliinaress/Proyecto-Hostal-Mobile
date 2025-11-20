@@ -1,5 +1,6 @@
 package com.alanturing.proyecto_general_punto_de_control_i_textimage.ui
 
+import android.content.res.Configuration.UI_MODE_NIGHT_YES
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
@@ -8,6 +9,7 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Alignment
@@ -16,8 +18,10 @@ import androidx.compose.ui.draw.clip
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.style.TextAlign
+import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.alanturing.proyecto_general_punto_de_control_i_textimage.R
+import com.alanturing.proyecto_general_punto_de_control_i_textimage.ui.theme.HostalTheme
 
 
 @Composable
@@ -76,5 +80,22 @@ fun AcercaDe(modifier: Modifier = Modifier) {
         )
 
 
+    }
+}
+@Preview(
+    name = "Acerca de",
+    showBackground = true,
+    backgroundColor = 0xFF252323,
+    uiMode = UI_MODE_NIGHT_YES
+)
+@Composable
+fun PreviewAcercaDe(){
+    HostalTheme {
+        Scaffold(modifier = Modifier.fillMaxSize()) { innerPadding ->
+            AcercaDe(
+                modifier = Modifier.padding(innerPadding)
+            )
+
+        }
     }
 }

@@ -9,4 +9,10 @@
     <string name="TextoAcercaDe">Aplicación oficial del Hostal Lianares. Encuentra información, reserva habitaciones y conoce más sobre nuestros servicios.</string>
     <string name="Desarrolladores">Desarrollado por:\n• Ana López\n• Carlos Pérez\n• Diego Ramírez</string>
     <string name="Licencia">© 2025 Hostal Lianares. Todos los derechos reservados.\nLicencia MIT.</string>
+    <string name="TextoPrincipalSobreNosotros">En Hostal Linares creemos que cada estancia debe ser una experiencia única. Desde nuestros inicios, hemos trabajado con dedicación para ofrecer un espacio acogedor donde la tranquilidad, la limpieza y la atención personalizada sean siempre prioridad. Nuestro equipo se esfuerza día a día por brindarte un ambiente familiar, pensado para que disfrutes tu visita con total comodidad y confianza.</string>
+    <string name="Info_Negocio">Ubicado en el corazón de la ciudad, Hostal Linares combina tradición y confort moderno para ofrecerte un hospedaje cálido y funcional. Nuestras instalaciones reflejan el espíritu hospitalario que nos caracteriza y el compromiso con la calidad en cada detalle.</string>
+    <string name="FuncionApp">La aplicación Hostal Linares App ha sido desarrollada con el propósito de facilitar la comunicación con nuestros huéspedes, ofrecer información útil sobre servicios, eventos y lugares de interés cercanos, y mejorar tu experiencia de alojamiento desde tu dispositivo móvil.</string>
+    <string name="Titulo_FuncionApp">¿Para que esta App?</string>
+    <string name="Titulo_InfoNegocio">¿Donde nos encontramos?</string>
+    <string name="Titulo_infoSobreNosotros">Información</string>
 </resources>
