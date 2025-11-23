@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="textoInicio">Welcome to Hostal Manuel</string>
+    <string name="textoInicio">Welcome to Hostal Linares</string>
     <string name="Des_FotoLogo">Logo photo</string>
     <string name="SobreNosotros">About us</string>
     <string name="Ayuda">Help</string>
@@ -15,4 +15,20 @@
     <string name="Titulo_FuncionApp">What is this app for?</string>
     <string name="Titulo_InfoNegocio">Where are we?</string>
     <string name="Titulo_infoSobreNosotros">Information</string>
+    <string name="Configuracion_Configuracion">Settings</string>
+    <string name="Configuracion_General">General</string>
+    <string name="Configuracion_Switch_RecibirNotificaciones">Receive notifications</string>
+    <string name="Configuracion_Switch_ModoOscuro">Dark Mode</string>
+    <string name="Configuracion_PreferenciasDeBusqueda">Search Preferences</string>
+    <string name="Configuracion_MostrarSoloHabitaciones">Show only rooms with:</string>
+    <string name="Configuracion_CheckBox_ParkingIncluido">Parking included</string>
+    <string name="Configuracion_CheckBox_DesayunoIncluido">Breakfast included</string>
+    <string name="Configuracion_Moneda">Principal Coin</string>
+    <string name="Moneda_Dolar">Dollar ($)</string>
+    <string name="Moneda_Libra">Pound (£)</string>
+    <string name="Idiomas_Español">Spanish</string>
+    <string name="Idiomas_Ingles">English</string>
+    <string name="Configuracion_Idioma">Language</string>
+    <string name="Configuracion_SeleccionarIdioma">Select Language</string>
+    <string name="Configuracion_GuardarCambios">Save Changes</string>
 </resources>

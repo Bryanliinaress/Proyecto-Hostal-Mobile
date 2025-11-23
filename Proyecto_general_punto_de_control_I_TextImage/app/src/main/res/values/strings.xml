@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name" translatable="false">Proyecto_general_punto_de_control_I_(Text+Image)</string>
-    <string name="textoInicio">Bienvenido a Hostal Manuel</string>
+    <string name="textoInicio">Bienvenido a Hostal Linares</string>
     <string name="Des_FotoLogo">Foto del logo</string>
     <string name="SobreNosotros">Sobre Nosotros</string>
     <string name="Ayuda">Ayuda</string>
@@ -15,4 +15,21 @@
     <string name="Titulo_FuncionApp">¿Para que esta App?</string>
     <string name="Titulo_InfoNegocio">¿Donde nos encontramos?</string>
     <string name="Titulo_infoSobreNosotros">Información</string>
+    <string name="Configuracion_Configuracion">Configuración</string>
+    <string name="Configuracion_General">General</string>
+    <string name="Configuracion_Switch_RecibirNotificaciones">Recibir notificaciones</string>
+    <string name="Configuracion_Switch_ModoOscuro">Modo Oscuro</string>
+    <string name="Configuracion_PreferenciasDeBusqueda">Preferencias de Búsqueda</string>
+    <string name="Configuracion_MostrarSoloHabitaciones">Mostrar solo habitaciones con:</string>
+    <string name="Configuracion_CheckBox_ParkingIncluido">Parking incluido</string>
+    <string name="Configuracion_CheckBox_DesayunoIncluido">Desayuno incluido</string>
+    <string name="Configuracion_Moneda">Moneda Principal</string>
+    <string name="Moneda_Euro" translatable="false">Euro (€)</string>
+    <string name="Moneda_Dolar">Dólar ($)</string>
+    <string name="Moneda_Libra">Libra (£)</string>
+    <string name="Idiomas_Español">Español</string>
+    <string name="Idiomas_Ingles">Ingles</string>
+    <string name="Configuracion_Idioma">Idioma</string>
+    <string name="Configuracion_SeleccionarIdioma">Seleccionar Idioma</string>
+    <string name="Configuracion_GuardarCambios">Guardar Cambios</string>
 </resources>
